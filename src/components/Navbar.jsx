@@ -5,7 +5,7 @@ export default function Navbar({ itemDalamCart }) {
 
     return (
         <nav className="bg-white shadow-md p-4 flex justify-between items-center relative">
-            <img src="/logo.svg" alt="Logo" />
+            <img src="/loogoo.svg" alt="Logo" />
 
             <div
                 className="relative size-8 grid place-items-center cursor-pointer"
